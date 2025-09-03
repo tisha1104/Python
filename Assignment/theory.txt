@@ -1,0 +1,100 @@
+Q-1. Introduction to Python
+=====>Introduction to Python and its Features (simple, high-level, interpreted language).
+
+Ans. ====>Introduction to Python:-
+Python is a popular, powerful, and versatile programming language.
+ It was created by Guido van Rossum and first released in 1991. Python emphasizes code readability and simplicity, making it an excellent choice for beginners and professionals alike.
+
+====>Key Features of Python:-
+
+---->Simple and Easy to Learn:
+-Python has a clean and easy-to-read syntax.
+-Writing Python code is often compared to writing English sentences.
+-Example print("Hello, world!")
+
+---->High-Level Language:
+-Python abstracts away most of the complex details of the computer, such as memory management.
+-You focus on what to do, not how to do it at the hardware level.
+
+---->Interpreted Language:
+-Python code is executed line by line using an interpreter.
+-No need for separate compilation – just write and run.
+
+---->Dynamically Typed:
+-No need to declare variable types.
+-The interpreter automatically identifies the type at runtime.
+-Example
+        x = 10     # Integer
+        x = "Hi"   # Now a string
+
+---->Object-Oriented:
+-Supports object-oriented programming with classes and objects.
+-Also supports other paradigms like functional and procedural programming.
+
+---->Extensive Standard Library:
+-Comes with many built-in modules and functions.
+-For example, modules for math, file handling, regular expressions, etc.
+
+---->Cross-Platform:
+-Python runs on Windows, macOS, Linux, and more.
+-Write code once and run it anywhere.
+
+---->Large Community Support:
+-Python has a vast community of users.
+-Abundant libraries, frameworks, tutorials, and tools are available (e.g., NumPy, Pandas, Django, Flask, TensorFlow).
+
+=====>History and evolution of Python.
+
+Ans.---->In the late 1980s, history was about to be written. It was that time when working on Python started.
+Soon after that, Guido Van Rossum began doing its application-based work in December of 1989 at Centrum Wiskunde & Informatica (CWI) which is situated in the Netherlands.
+-It was started as a hobby project because he was looking for an interesting project to keep him occupied during Christmas.
+-The programming language in which Python is said to have succeeded is ABC Programming Language, which had interfacing with 
+the Amoeba Operating System and had the feature of exception handling. He had already helped create ABC earlier in his career and had seen some issues with ABC but liked most of the features. 
+-After that what he did was very clever. He had taken the syntax of ABC, and some of its good features. It came with a lot 
+of complaints too, so he fixed those issues completely and created a good scripting language that had removed all the flaws.
+
+---->Evolution of Python:
+-The language was finally released in 1991. When it was released, it used a lot fewer codes to express the concepts, when 
+we compare it with Java , C++ & C .
+-Its design philosophy was quite good too. Its main objective is to provide code readability and advanced developer productivity.
+When it was released, it had more than enough capability to provide classes with inheritance, several core data types of exception handling and functions.
+
+
+====>Advantages of using Python over other programming languages.
+
+Ans. Python offers several advantages over other programming languages, making it a popular choice for various applications:
+
+---->Simplicity and Readability:
+-Python's syntax is designed to be clear and concise, resembling natural language. This leads to highly readable code, which 
+simplifies learning, development, and maintenance.
+
+---->Versatility and Wide Application:
+-Python is a general-purpose language used in diverse fields, including web development (Django, Flask), data science 
+(NumPy, Pandas, Scikit-learn), machine learning and AI (TensorFlow, PyTorch), automation, scripting, and more.
+
+---->Extensive Libraries and Frameworks:
+-Python boasts a vast ecosystem of pre-built libraries and frameworks that significantly accelerate development by providing
+readily available functionalities for common tasks, eliminating the need to write code from scratch.
+
+---->Improved Productivity:
+-The combination of simple syntax, extensive libraries, and rapid development capabilities allows developers to build and 
+deploy applications more quickly compared to languages requiring more verbose code or complex setups.
+
+---->Cross-platform Compatibility:
+-Python code can run on various operating systems (Windows, macOS, Linux) without modification, enhancing its portability.
+
+---->Large and Active Community:
+-Python benefits from a massive and supportive global community. This translates to abundant resources, tutorials, forums,
+and readily available assistance for developers.
+
+---->Open-Source Nature:
+-Python is free and open-source, promoting accessibility and fostering continuous improvement through community contributions.
+
+---->Support for Multiple Paradigms:
+-Python supports various programming paradigms, including object-oriented, procedural, and functional programming, offering
+flexibility in coding style and approach.
+
+
+====>Installing Python and setting up the development environment (Anaconda, PyCharm, or VSCode).
+
+Ans. 
